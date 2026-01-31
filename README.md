@@ -1,2 +1,2 @@
 # SM-G9250-ONE UI 1.0-ROM
-I previously researched Floyd 5.1 and found that the screen had an issue at 00/P.  I made some modifications later.  This is compatible with the S6 Edge (G9250). I'm not sure if it will work with other variants.
+I previously researched Floyd 5.1 and found that the screen had touch issues and some problems at 00/P. Later, I made some modifications, and in the SM-G9250 ONE UI_V1.0.img version, we successfully made the S6 Edge (G9250) touch-compatible. However, I am not sure if it is compatible with other models. Although we successfully used the touch function on (SM-G9250), some functions are still unusable.
